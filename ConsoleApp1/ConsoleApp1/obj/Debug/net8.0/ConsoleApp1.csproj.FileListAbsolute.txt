@@ -1,0 +1,14 @@
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+d:\LeetCodeProblems\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
